@@ -18,13 +18,12 @@
 <img src="homebrew-color.svg" alt="homebrew" width="40" height="40"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-polaris044&theme=algolia)
 
-<p>
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=code-polaris044&count_private=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 - 2022
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
