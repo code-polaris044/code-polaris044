@@ -12,5 +12,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=code-polaris044&count_private=true&theme=algolia)
 
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&layout=compact)
 
 
