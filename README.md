@@ -16,8 +16,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=code-polaris044&count_private=true&theme=algolia)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code-polaris044)](https://github.com/anuraghazra/github-readme-stats)
-
 - 2022
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
 
