@@ -5,3 +5,5 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=code-polaris044)
 
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=code-polaris044&repo=homebridge-switchbot-for-mac)
+
