@@ -15,6 +15,7 @@
 <img src="wordpress-color.svg" alt="word_press" width="40" height="40"/>
 <img src="npm-color.svg" alt="npm" width="40" height="40"/>
 <img src="notion-color.svg" alt="notion" width="40" height="40"/>
+<img src="homebrew-color.svg" alt="homebrew" width="40" height="40"/>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-polaris044&theme=algolia)
