@@ -33,5 +33,3 @@ https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
 - 2023
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2023
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code-polaris044)](https://github.com/anuraghazra/github-readme-stats)
-
