@@ -33,3 +33,4 @@ https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
 - 2023
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2023
 
+<figure><embed src="https://wakatime.com/share/@code_polaris044/33041050-233e-4d80-b65a-e68cc07fb6f1.svg"></embed></figure>
