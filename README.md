@@ -33,4 +33,4 @@ https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
 - 2023
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2023
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
