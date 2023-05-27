@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&hide_progress=true&langs_count=30&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- Visitor Counter
+- Visitor Counter<br>
  ![Visitor Count](https://profile-counter.glitch.me/{code-polaris044}/count.svg)
 
 - 2022
