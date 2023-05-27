@@ -2,7 +2,7 @@
 <h3 align="center">web制作会社で、フロントエンジニアとして働いています。<br>
  (I work as a Front-end developer and mainly work in Website Design Company.)</h3>
  
- 
+ ![Visitor Count](https://profile-counter.glitch.me/{code-polaris044}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
