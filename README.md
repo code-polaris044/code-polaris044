@@ -23,6 +23,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-polaris044&theme=algolia&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - Visitor Counter<br><br>
  ![Visitor Count](https://profile-counter.glitch.me/{code-polaris044}/count.svg)
 
