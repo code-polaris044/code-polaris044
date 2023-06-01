@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm code-polaris044</h1>
+<h1 align="center">Hello 👋, I'm code-polaris044</h1>
 <h3 align="center">web制作会社で、フロントエンジニアとして働いています。<br>
  (I work as a Front-end developer and mainly work in Website Design Company.)</h3>
  
