@@ -19,11 +19,9 @@
 <img src="postcss-color.svg" alt="postcss" width="40" height="40"/>
 </p>
 
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-polaris044&theme=algolia&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-polaris044&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
