@@ -29,3 +29,5 @@ https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2022
 - 2023
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2023
 
+- 2024
+https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2024
