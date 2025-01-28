@@ -35,7 +35,7 @@ https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2024
 - 2025
 https://honzaap.github.io/GithubCity/?name=code-polaris044&year=2025
 
--WakaTime stats
+- WakaTime stats
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code_polaris044&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
